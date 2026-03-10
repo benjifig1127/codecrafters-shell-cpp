@@ -19,7 +19,6 @@ namespace {
   }
 }
 
-
 int main() {
   prepare_shell();
   print_input(read_input());
